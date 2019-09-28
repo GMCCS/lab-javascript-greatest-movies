@@ -2,7 +2,7 @@
 
 // Iteration 1: All rates average - Get the average of all rates with 2 decimals 
 
- 
+ fsa
 // Iteration 2: Drama movies - Get the average of Drama Movies
 
 
